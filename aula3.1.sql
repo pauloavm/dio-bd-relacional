@@ -1,3 +1,5 @@
+USE viagens;
+
 CREATE TABLE usuarios (
   id INT,
   nome VARCHAR(255) NOT NULL COMMENT 'Nome do usuário',
