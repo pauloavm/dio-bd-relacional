@@ -1,3 +1,4 @@
+USE viagens;
 
 -- Inserts --
 INSERT INTO viagens.usuarios (id, nome, email, data_nascimento, endereco) VALUES 
